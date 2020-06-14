@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="grid">grid</string>
+    <string name="turn">TURN :</string>
+    <string name="grids">grids</string>
+    <string name="turnlogo">turnLogo</string>
+    <string name="_info_">info</string>
+    <string name="player_details">Player Details</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="mute">mute</string>
+    <string name="component">component</string>
+    <string name="logo">logo</string>
+    <string name="info">
+        Tic Tac Toe is free classic puzzle game also known as Noughts and Crosses or sometimes X and O.\n\n
+        The Tic Tac Toe game is a game for two players, who take turns marking the spaces in a 3×3 grid. The player who succeeded in placing three respective marks in a horizontal, vertical, or diagonal row wins the game.\n\n
+        The Tic Tac Toe is a great way to pass your free time whether you\'re standing in a line or spending time with your kids. Stop wasting paper and save trees. Because of the simplicity of Tic Tac Toe, it is often used as a pedagogical tool for teaching the concepts of good sportsmanship and the branch of artificial intelligence.\n\n
+        Start playing Tic Tac Toe game on your Android device.\n\n
+        Get Tic Tac Toe now and let the fun begin!\n\n
+    </string>
+    <string name="creators">
+        Creators :\n
+        Akshay Jain\n
+        Sarthak Jain\n
+        Navaneeth P\n
+        Rishik TS\n
+    </string>
+</resources>
