@@ -9,9 +9,16 @@ Start playing Tic Tac Toe game on your Android device.
 Get Tic Tac Toe now and let the fun begin!
 
 # Screenshots :
+
 ![](screenshots/s1.png)
+
 ![](screenshots/s2.png)
+
 ![](screenshots/s3.png)
+
 ![](screenshots/s4.png)
+
 ![](screenshots/s5.png)
+
 ![](screenshots/s6.png)
+
