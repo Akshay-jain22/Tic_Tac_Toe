@@ -10,15 +10,11 @@ Get Tic Tac Toe now and let the fun begin!
 
 # Screenshots :
 
-![](screenshots/s1.png)
-
-![](screenshots/s2.png)
-
-![](screenshots/s3.png)
-
-![](screenshots/s4.png)
-
-![](screenshots/s5.png)
-
-![](screenshots/s6.png)
-
+<p align="center">
+  <img height="350" src="screenshots/s1.png">
+  <img height="350" src="screenshots/s2.png">
+  <img height="350" src="screenshots/s3.png">
+  <img height="350" src="screenshots/s4.png">
+  <img height="350" src="screenshots/s5.png">
+  <img height="350" src="screenshots/s6.png">
+</p>
